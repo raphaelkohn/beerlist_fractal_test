@@ -1,0 +1,6 @@
+framework module Pods_FractalBeerList {
+  umbrella header "Pods-FractalBeerList-umbrella.h"
+
+  export *
+  module * { export * }
+}
